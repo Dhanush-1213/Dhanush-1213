@@ -1,11 +1,11 @@
 <!-- ======================= ULTRA PREMIUM README ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:60a5fa,50:38bdf8,100:22d3ee&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:60a5fa,50:38bdf8,100:22d3ee&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=hello+👋+i'm+dhanush;B.Tech+CSE+(Artificial+Intelligence+and+Machine+Learning);Building+Scalable+Systems;Backend%20%7C%20ML%20%7C%20Full-Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋+i'm+dhanush;B.Tech+CSE+(Artificial+Intelligence+and+Machine+Learning);Building+reliable+software+systems;Backend%20%7C%20ML%20%7C%20Full-Stack" />
 </p>
 <br/>
 
