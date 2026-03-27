@@ -1,15 +1,14 @@
-<!-- ======================= ULTRA PREMIUM README ======================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:60a5fa,50:38bdf8,100:22d3ee&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋+i'm+dhanush;B.Tech+CSE+(Artificial+Intelligence+and+Machine+Learning);Building+reliable+software+systems;Backend%20%7C%20ML%20%7C%20Full-Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Dhanush;B.Tech+CSE+(Artificial+Intelligence+and+Machine+Learning);Building+Reliable+Software+Systems;Backend+%7C+ML+%7C+Full-Stack" />
 </p>
 <br/>
 
-<!-- ======================= CONTACT ======================= -->
+
 
 <p align="center">
   <a href="https://github.com/Dhanush-1213">
@@ -27,11 +26,11 @@
 
 <br/>
 
-<!-- ======================= INFO ======================= -->
 
 <p align="center">
-  <b>📍 Bangalore</b> &nbsp; &nbsp;
-  <b>🎓 PES University</b>
+  <span style="font-size:23px; font-weight:650; letter-spacing:0.6px;">
+    📍 Bangalore &nbsp; • &nbsp; 🎓 PES University
+  </span>
 </p>
 
 <br/>
@@ -42,7 +41,7 @@
 
 <br/>
 
-<!-- ======================= CORE AREAS ======================= -->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge" />
@@ -53,7 +52,6 @@
 
 <br/>
 
-<!-- ======================= TECH STACK ======================= -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-F8FAFC?style=for-the-badge&logo=python&logoColor=3776AB" />
