@@ -10,16 +10,16 @@
 
 
 <p align="center">
-  <a href="https://github.com/Dhanush-1213">
-    <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="34" />
+  <a href="https://www.linkedin.com/in/dhanush-k-pes1312/">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:dhanushk9972@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" height="34" />
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://dhanussshhh.vercel.app/">
-    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="34" style="background:white; padding:6px; border-radius:10px;" />
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="36" style="background:white; padding:7px; border-radius:12px;" />
   </a>
 </p>
 
