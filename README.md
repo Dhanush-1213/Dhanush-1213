@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Dhanush;B.Tech+CSE+(Artificial+Intelligence+and+Machine+Learning);Building+Reliable+Software+Systems;Backend+%7C+ML+%7C+Full-Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Dhanush;B.Tech+in+CSE+(Artificial+Intelligence+and+Machine+Learning);Building+Reliable+Software+Systems;Backend+%7C+ML+%7C+Full-Stack" />
 </p>
 <br/>
 
@@ -77,7 +77,8 @@
 <br/>
 
 <p align="center">
-  <sub>Building systems that scale — not just run.</sub>
+  <sub>Take a look at what I’ve been building</sub><br/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/double-down.png" height="18" />
 </p>
 
 <p align="center">
