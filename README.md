@@ -7,8 +7,6 @@
 </p>
 <br/>
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanush-k-pes1312/">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" height="36" />
@@ -25,7 +23,6 @@
 
 <br/>
 
-
 <p align="center">
   <span style="font-size:23px; font-weight:650; letter-spacing:0.6px;">
     📍 Bangalore &nbsp; • &nbsp; 🎓 PES University
@@ -40,34 +37,31 @@
 
 <br/>
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-1f2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Systems-gray?style=for-the-badge" />
 </p>
 
 <br/>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-F8FAFC?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/-C++-F8FAFC?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-JavaScript-F8FAFC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-React-F8FAFC?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Node.js-F8FAFC?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/-Flask-F8FAFC?style=for-the-badge&logo=flask&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Streamlit-F8FAFC?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
-  <img src="https://img.shields.io/badge/-TensorFlow-F8FAFC?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/-Flask-white?style=for-the-badge&logo=flask&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-F8FAFC?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/-MySQL-F8FAFC?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/-Git-F8FAFC?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/-Linux-F8FAFC?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&logoColor=000000" />
 </p>
 
 <p align="center">
