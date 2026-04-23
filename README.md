@@ -28,10 +28,6 @@
 
 <br/>
 
-<p align="center">
-  Building clean, scalable, and production-ready systems.
-</p>
-
 <br/>
 
 <p align="center">
